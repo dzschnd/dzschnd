@@ -1,6 +1,6 @@
 # Hi, I'm Junayd 👀 
 
-💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations and modern web apps.  
+💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations and scalable web apps.  
 🎓 4th year student at **ITMO University**, Saint Petersburg  
 🌍 Focused on **scalable systems, developer experience, and modern UI/UX**.
 
