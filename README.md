@@ -1,6 +1,6 @@
 # Hi, I'm Junayd 👀 
 
-💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations and scalable web apps.  
+💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations, and scalable web apps.  
 🎓 4th year student at **ITMO University**, Saint Petersburg  
 🌍 Focused on **scalable systems, developer experience, and modern UI/UX**.
 
@@ -12,7 +12,7 @@
 - Automating **deployments & CI/CD** with Docker, GitHub Actions, Vercel  
 
 ---
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs,redux,vite,webpack" />
@@ -25,4 +25,4 @@
 ---
 ## 📫 Reach Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzschnd)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safarzadejunayd@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzschnd) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safarzadejunayd@gmail.com)
