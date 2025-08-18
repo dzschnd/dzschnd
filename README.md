@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Junayd 👀
 
-<!--
-**dzschnd/dzschnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations and modern web apps.  
+🎓 4th year student at **ITMO University**, Saint Petersburg  
+🌍 Focused on **scalable systems, developer experience, and modern UI/UX**.
 
-Here are some ideas to get you started:
+---
+## 🕹️ What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building **fullstack apps** with React, Next.js, Node.js, tRPC  
+- Designing **responsive & accessible UIs** with TailwindCSS, shadcn/ui  
+- Automating **deployments & CI/CD** with Docker, GitHub Actions, Vercel  
+
+---
+## ⚙️ Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs,redux,vite,webpack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,rabbitmq,postgres,mongodb,redis" />  
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,vercel,linux" />
+</div>
+---
+
+## 📫 Reach me
+[LinkedIn](https://linkedin.com/in/dzschnd) | [Email](mailto:safarzadejunayd@gmail.com)
