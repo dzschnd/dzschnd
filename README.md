@@ -12,7 +12,7 @@
 - Automating **deployments & CI/CD** with Docker, GitHub Actions, Vercel  
 
 ---
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs,redux,vite,webpack" />
