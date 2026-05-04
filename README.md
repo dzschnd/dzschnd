@@ -1,6 +1,6 @@
 # Hi, I'm Junayd 
 
-💻 **Fullstack Developer** with 2+ years of experience building AI platforms, CMS integrations, and scalable web apps.  
+💻 **Full-Stack Developer** with 3 years of experience building production web products with React, Next.js, Node.js, MongoDB, and PostgreSQL 
 🎓 4th year student at **ITMO University**, Saint Petersburg  
 
 ---
