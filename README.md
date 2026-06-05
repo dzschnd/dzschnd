@@ -4,13 +4,6 @@
 🎓 4th year student at **ITMO University**, Saint Petersburg  
 
 ---
-## 🕹️ What I Work On
-
-- Building **fullstack apps** with React, Next.js, Node.js, tRPC  
-- Developing **responsive & accessible UIs** with TailwindCSS, shadcn/ui  
-- Automating **deployments & CI/CD** with Docker, GitHub Actions, AWS, Vercel  
-
----
 ## 🚀 Featured Projects
 
 - **[Doctor Helper](https://doctor-helper-global.ru/)** — Healthcare platform built under a government innovation grant. `Next.js` `tRPC` `Strapi`
