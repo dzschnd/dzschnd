@@ -8,8 +8,15 @@
 
 - Building **fullstack apps** with React, Next.js, Node.js, tRPC  
 - Developing **responsive & accessible UIs** with TailwindCSS, shadcn/ui  
-- Automating **deployments & CI/CD** with Docker, GitHub Actions, Vercel  
+- Automating **deployments & CI/CD** with Docker, GitHub Actions, AWS, Vercel  
 
+---
+## 🚀 Featured Projects
+
+- **[Doctor Helper](https://doctor-helper-global.ru/)** — Healthcare platform built under a government innovation grant. `Next.js` `tRPC` `Strapi`
+- **[Borsa Hero](https://borsahero.com/)** — Video-streaming platform. `React` `Express` `MongoDB` `AWS`
+- **[Streamiverse](https://streamiverse.io/)** — Promotional site with rich interactive visuals. `React` `SCSS`
+  
 ---
 ## 🛠️ Tech Stack
 
