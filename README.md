@@ -1,7 +1,7 @@
 # Hi, I'm Junayd 
 
-💻 **Full-Stack Developer** with 3 years of experience building production web products with React, Next.js, Node.js, MongoDB, and PostgreSQL\
-🎓 4th year student at **ITMO University**, Saint Petersburg  
+**Full-Stack Developer** with 3 years of experience building production web products with React, Next.js, Node.js, MongoDB, and PostgreSQL\
+1th **Master's** year student at **[NTOU](https://en.wikipedia.org/wiki/National_Taiwan_Ocean_University)**
 
 ---
 ## 🚀 Featured Projects
